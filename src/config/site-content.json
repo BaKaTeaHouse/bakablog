@@ -36,28 +36,32 @@
 			"url": "/images/art/639d66e9fd3e6303.png"
 		}
 	],
-	"currentArtImageId": "639d66e9fd3e6303",
+	"currentArtImageId": "cat",
 	"backgroundImages": [
 		{
 			"id": "",
 			"url": ""
+		},
+		{
+			"id": "639d66e9fd3e6303",
+			"url": "/images/background/639d66e9fd3e6303.png"
 		}
 	],
-	"currentBackgroundImageId": "",
+	"currentBackgroundImageId": "639d66e9fd3e6303",
 	"socialButtons": [
-		{
-			"id": "email",
-			"type": "email",
-			"value": "baka.ducktail985@passinbox.com",
-			"label": "",
-			"order": 1
-		},
 		{
 			"id": "juejin",
 			"type": "tg",
 			"value": "https://t.me/BaKa_chat_bot",
 			"label": "Telegram",
-			"order": 3
+			"order": 2
+		},
+		{
+			"id": "email",
+			"type": "email",
+			"value": "baka.ducktail985@passinbox.com",
+			"label": "",
+			"order": 2
 		}
 	],
 	"clockShowSeconds": false,
