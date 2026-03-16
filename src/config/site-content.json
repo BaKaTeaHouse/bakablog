@@ -54,14 +54,7 @@
 			"type": "tg",
 			"value": "https://t.me/BaKa_chat_bot",
 			"label": "Telegram",
-			"order": 2
-		},
-		{
-			"id": "email",
-			"type": "email",
-			"value": "baka.ducktail985@passinbox.com",
-			"label": "",
-			"order": 2
+			"order": 1
 		}
 	],
 	"clockShowSeconds": false,
