@@ -32,15 +32,11 @@
 			"url": "/images/art/a46372ff45bc5524.jpg"
 		},
 		{
-			"id": "639d66e9fd3e6303",
-			"url": "/images/art/639d66e9fd3e6303.png"
-		},
-		{
-			"id": "654652e3622e8a1f",
-			"url": "/images/art/654652e3622e8a1f.jpg"
+			"id": "a87ac59a80cbe549",
+			"url": "/images/art/a87ac59a80cbe549.png"
 		}
 	],
-	"currentArtImageId": "654652e3622e8a1f",
+	"currentArtImageId": "a87ac59a80cbe549",
 	"backgroundImages": [
 		{
 			"id": "",
@@ -57,12 +53,19 @@
 			"id": "juejin",
 			"type": "tg",
 			"value": "https://t.me/BaKa_chat_bot",
-			"label": "Telegram",
+			"label": "Telegram 私信",
 			"order": 1
+		},
+		{
+			"id": "button-1773738074077",
+			"type": "tg",
+			"value": "https://t.me/BaKaTeahouse",
+			"label": "Telegram 频道",
+			"order": 2
 		}
 	],
-	"clockShowSeconds": false,
-	"summaryInContent": false,
+	"clockShowSeconds": true,
+	"summaryInContent": true,
 	"isCachePem": false,
 	"hideEditButton": false,
 	"enableCategories": true,
